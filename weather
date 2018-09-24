@@ -1,0 +1,5 @@
+#!bin/bash
+
+curl www.wttr.in/Philadelphia
+
+say That's a cold one chaps
